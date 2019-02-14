@@ -8,6 +8,6 @@ public class Sample1 {
 
 	public void emp1() {
 		// TODO Auto-generated method stub
-
+System.out.println("Code edited by jalal");
 	}
 }
